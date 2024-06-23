@@ -55,5 +55,6 @@ For detailed instructions on how to host this project, please refer to the [depl
 
 ---
 
-Feel free to explore and modify the project as per your requirements. If you have any feedback or suggestions, please create an issue or reach out to me directly. Happy coding!
-```
+Feel free to explore and modify the project as per your requirements. If you have any feedback or suggestions, please create an issue or reach out to me directly. 
+Happy coding!
+
