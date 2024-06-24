@@ -3,6 +3,9 @@
 
 Welcome to my Gamified Portfolio project repository! This project is designed to showcase my skills and experiences in a gamified format. You can view the live demo [here](https://coffee-expert.github.io/Gamified-portfolio/).
 
+
+![A screenshot of the project](https://github.com/Coffee-Expert/2d-portfolio-kev/blob/main/screenshot.png)
+
 ## Project Repository
 
 You can explore the project repository [here](https://github.com/Coffee-Expert/Gamified-portfolio). Feel free to clone or fork the repository to explore the code and customize it for your own use.
